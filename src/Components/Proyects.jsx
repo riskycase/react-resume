@@ -1,3 +1,4 @@
+import { BoxIcon } from "./BoxIcon";
 import { Description } from "./Description";
 
 export const Proyects = ({ proyects }) => {
@@ -23,7 +24,7 @@ const Proyect = ({ name, link, description }) => {
         </div>
         <div className="experience__data bd-grid">
           <h3 className="experience__title">
-            {name}
+            {name} {link && <i className="bx bx-link-external" />}
           </h3>
           {description.map((desc, i) => <Description key={i} desc={desc} />)}
         </div>
