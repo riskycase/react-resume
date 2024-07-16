@@ -118,7 +118,7 @@ export const Data = {
       },
       {
         name: "Linkscape",
-        link: "https://linkscape.firebaseapp.com/",
+        link: "https://linkscape.riskycase.in/",
         description: [
           "ReactJS based web application which allows any student to add relevant links about any academic courses.",
           "Used by 12K+ students in all BITS campuses.",
