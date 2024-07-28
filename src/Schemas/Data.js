@@ -89,6 +89,13 @@ export const Data = {
     ],
     proyects: [
       {
+        name: "Link Shortener",
+        link: "https://short.riskycase.in",
+        description: [
+          "In house link shortener built to support short links under riskycase.in domain, with Google login support",
+        ],
+      },
+      {
         name: "HD44780 and AHT21 unified I2C driver for Raspberry Pi",
         description: [
           "Linux device driver which uses I2C protocol to communicate with a temperature sensor and LCD display.",
