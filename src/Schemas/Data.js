@@ -58,6 +58,14 @@ export const Data = {
   experience: {
     works: [
       {
+        title: "Software Development Engineer - I",
+        period: "October 2024 - Present",
+        company: "Amazon.com Inc",
+        description: [
+          "SDE-I in AWS Data Center Power Management",
+        ],
+      },
+      {
         title: "Software Development Engineer Intern",
         period: "July 2023 - December 2023",
         company: "Amazon.com Inc",
